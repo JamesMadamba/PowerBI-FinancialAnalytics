@@ -15,5 +15,5 @@ Insights:
 
 Questions going forward:
 1.) How do we market to Channel partners, Mid Market, and Enterprise better?
-2.) Do we need to cut out Enterprise completly
+2.) Do we need to cut out Enterprise completely?
 3.) Can we cut the price of COGS for VTT?
