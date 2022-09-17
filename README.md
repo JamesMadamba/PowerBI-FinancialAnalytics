@@ -1,8 +1,11 @@
 # PowerBI-FinancialAnalytics
+
+
+Click the "Financial Data Analysis.pbit" to download and open the interactive Power Bi Dashboard. Or view the PDF screenshot for a quick glance.
+
+
 In this project I played around with financial data for a company selling cars.
 
-
-Click the 
 
 Insights:
 1.) The Government is where we generated over 80% of out profit
