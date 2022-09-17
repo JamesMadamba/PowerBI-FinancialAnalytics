@@ -8,7 +8,7 @@ In this project I played around with financial data for a company selling automo
 
 
 Insights:
-1.) The Government is where we generated over 80% of out profit
+1.) The Government is where we generated over 80% of our profit
 2.) September through December is where most of our sales happen.
 3.) Paseo is our most popular product.
 4.) France is our most profitable country.
