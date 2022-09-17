@@ -1,6 +1,9 @@
 # PowerBI-FinancialAnalytics
 In this project I played around with financial data for a company selling cars.
 
+
+Click the 
+
 Insights:
 1.) The Government is where we generated over 80% of out profit
 2.) September through December is where most of our sales happen.
